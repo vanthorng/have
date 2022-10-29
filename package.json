@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@babel/cli": "^7.4.4",
+    "core-js": "^3.6.5",
+    "primeflex": "3.2.1",
+    "primeicons": "6.0.1",
+    "primevue": "^3.18.0",
+    "vue": "3.2.31",
+    "vue-router": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "eslint": "^6.0.0",
+    "eslint-plugin-vue": "^7.0.0"
+  },
+  "main": "src/demo/StepsDemo.vue"
+}
